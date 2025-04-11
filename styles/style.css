@@ -298,11 +298,11 @@ en 0 */
 }
 
 .person__image_size_m {
-  width: 80px; 
+  width: 100px; 
 }
 
 .person__image_size_s {
-  width: 100px; 
+  width: 80px; 
 }
 
 .person__caption {
