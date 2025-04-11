@@ -258,7 +258,6 @@ en 0 */
 }
 
 .person_name_feynman {
-  Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento 
   position: relative;
   top: -30px;
   left: 319px;
