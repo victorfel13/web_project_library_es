@@ -308,6 +308,9 @@ en 0 */
 .person__image_size_s {
   width: 100px; 
 }
+.person__image.person__image_size_b {
+  width: 30px;
+}
 
 .person__caption {
   text-align: center;
