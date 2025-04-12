@@ -332,6 +332,7 @@ en 0 */
       margin: 100px 0 0;
       display: flex;
       justify-content: center;
+    gap: 40px;
   
     
 }
