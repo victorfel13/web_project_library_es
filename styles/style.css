@@ -382,10 +382,13 @@ en 0 */
 padding-left: 80px;
 padding-top: 60px;
 padding-bottom: 100px;
+align-items: flex-start;
 }
 
 .footer__column_content_hours {
   color: white;
+  margin-left: auto;
+    margin-right: 80px;
 
 }
 
