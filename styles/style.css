@@ -417,7 +417,7 @@ align-items: flex-start;
   color: white;
   text-decoration: none;
   display: flex;
-  
+  gap: 80px;
   align-items: center;
 }
 
