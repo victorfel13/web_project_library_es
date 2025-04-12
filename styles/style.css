@@ -360,8 +360,11 @@ en 0 */
 
 .footer {
   box-sizing: border-box;
-  background-color: #000000;;
-  padding: 60px 80px;
+  background-color: #1f1f1f;
+padding-left: 80px;
+  padding-top: 60px;
+  padding-bottom: 100px;
+  padding-right: 80px;
   
 }
 
@@ -369,9 +372,7 @@ en 0 */
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-padding-left: 80px;
-padding-top: 60px;
-padding-bottom: 100px;
+
 align-items: flex-start;
 }
 
