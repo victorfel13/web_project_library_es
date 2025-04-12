@@ -416,6 +416,9 @@ align-items: flex-start;
 .footer__column-link {
   color: white;
   text-decoration: none;
+  display: flex;
+  
+  align-items: center;
 }
 
 .footer__social-icon {
