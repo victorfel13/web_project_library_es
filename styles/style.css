@@ -395,7 +395,7 @@ align-items: flex-start;
       font-size: 16px;
         color: #ffffff;
         font-weight: 700;
-        padding-bottom: 20px;
+        margin-bottom: 20px;
 }
 
 .footer__list {
