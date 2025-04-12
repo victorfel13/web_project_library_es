@@ -417,7 +417,12 @@ align-items: flex-start;
   text-decoration: none;
 }
 
-.footer__social-icon {}
+.footer__social-icon {
+  padding: 0 10px 0 0;
+    height: 16px;
+    width: 16px;
+    align-self: center;
+}
 
 .footer__copyright {
   color: white;
