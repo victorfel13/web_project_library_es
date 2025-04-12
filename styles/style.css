@@ -383,7 +383,7 @@ align-items: flex-start;
 }
 
 .footer__column_content_social {
-  
+      padding: 0 0 0 80px;
 }
 
 .footer__logo {
